@@ -19,7 +19,8 @@ You just need to define the border radius to swap between rectangle and circle t
 
 </p>
 
-```dart
+ 本库参考
+```dart slider_button，添加背景色
 import 'package:slider_button/slider_button.dart';
 
 ```
